@@ -12,15 +12,11 @@
 
 [tracker]: https://raw.githubusercontent.com/BarracudaPff/GitHub-Static/master/ezgif.com-gif-maker.gif
 
-[//]: # (Vars)
-
 # Full Line Code Completion
 With the Full Line plugin, you can complete not only one token, but several or even the full line at once!
 > *This project is still in beta, please send your feedback to [ML Code Completion][tracker] team*
 
 ![Completion example][gif-before] ![Completion example][gif-before]
-
-[//]: # (Full Info)
 
 Complete free fast and smart AI-based full line code completion.
 General/AI/Languages/Difference
@@ -30,7 +26,7 @@ We will be very happy for any kind of comments, suggestions and found bugs. Plea
 ## How to use
 
 After installing Full Line, your local model will download automatically, and you will immediately see new suggestions in the popup.
-Our suggestions are marked with ![d][img-py-icon] or ![d][img-py-red-icon] *(such suggestions may contain an unknown references)*
+Our suggestions are marked with ![icon][img-py-icon] or ![icon][img-py-red-icon] *(such suggestions may contain an unknown references)*
 
 You can find full information about the plugin here -> [https://github.com/JetBrains/full-line][tracker]
 
@@ -61,18 +57,14 @@ You can decide whether to filter them out.
 ### Token-by-token
 If you need only part of suggestion - press `Tab` and select tokens one-by-one
 
-
-**small gif here**
 ![First token][gif-first-token]
 ### Auto-Imports
 Just like in std completion, if you're using a class, a static method, or a static field that you haven't imported yet - we will suggest you to import all missing parts
 
-**small gif here**
 ![Auto-import][gif-auto-import]
 ### String jumping
 While completing strings, you can edit and jump on them just like typing template
 
-**small gif here**
 ![Walking on stings][gif-walking-strings]
 
 ## Frequently Asked Questions
