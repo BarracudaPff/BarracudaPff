@@ -7,6 +7,9 @@
 [gif-auto-import]: https://github.com/BarracudaPff/GitHub-Static/raw/master/auto-imports.gif
 [gif-walking-strings]: https://github.com/BarracudaPff/GitHub-Static/raw/master/template-like%20walking.gif
 
+[img-py-icon]: https://raw.githubusercontent.com/BarracudaPff/GitHub-Static/master/redCode.svg
+[img-py-red-icon]: https://raw.githubusercontent.com/BarracudaPff/GitHub-Static/master/redCode.svg
+
 [tracker]: https://raw.githubusercontent.com/BarracudaPff/GitHub-Static/master/ezgif.com-gif-maker.gif
 
 [//]: # (Vars)
@@ -27,7 +30,7 @@ We will be very happy for any kind of comments, suggestions and found bugs. Plea
 ## How to use
 
 After installing Full Line, your local model will download automatically, and you will immediately see new suggestions in the popup.
-Our suggestions are marked with ![d](./redCode.svg) or ![d](./redCode.svg) *(such suggestions may contain an unknown references)*
+Our suggestions are marked with ![d][img-py-icon] or ![d][img-py-red-icon] *(such suggestions may contain an unknown references)*
 
 You can find full information about the plugin here -> [https://github.com/JetBrains/full-line][tracker]
 
